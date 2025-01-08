@@ -53,30 +53,34 @@ Open the R scripts (.R files) or R Markdown (.Rmd) files in your preferred R edi
 ## Project Descriptions
 
 ### 1. Customer Segmentation Analysis
-#### Objective: Segment customers based on purchasing behavior using k-means clustering.
-#### Key Highlights:
+#### Objective 
+Segment customers based on purchasing behavior using k-means clustering.
+#### Key Highlights
 Feature scaling and dimensionality reduction.
 Visualization of clusters using ggplot2.
 
 ### 2. Healthcare Data Analysis
-#### Objective: Analyze patient data to identify trends and predictors of specific health outcomes.
-#### Key Highlights:
+#### Objective
+Analyze patient data to identify trends and predictors of specific health outcomes.
+#### Key Highlights
 Hypothesis testing and statistical inference.
 Linear regression to predict outcomes.
 
 ### 3. Stock Price Prediction
-#### Objective: Predict stock prices using time-series analysis and ARIMA modeling.
-#### Key Highlights:
+#### Objective
+Predict stock prices using time-series analysis and ARIMA modeling.
+#### Key Highlights
 Data smoothing and transformation.
 Forecasting trends with confidence intervals.
 
 ### 4. Interactive Shiny Dashboard
-#### Objective: Build a dashboard to explore and visualize data interactively.
-#### Key Highlights:
+#### Objective
+Build a dashboard to explore and visualize data interactively.
+#### Key Highlights
 Dynamic filtering and chart updates.
 User-friendly interface for non-technical stakeholders.
 
 ## Future Enhancements
-##### Add more projects exploring deep learning in R.
-##### Enhance visualizations with advanced libraries like plotly.
-##### Integrate APIs for live data retrieval in dashboards.
+#### Add more projects exploring deep learning in R.
+#### Enhance visualizations with advanced libraries like plotly.
+#### Integrate APIs for live data retrieval in dashboards.
