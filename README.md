@@ -1,4 +1,4 @@
-# R Analytics Hub: Data Science Projects
+# R_Analytics_Hub: Data Science Projects
 
 ## Overview  
 This repository showcases a collection of diverse data science projects developed in R. Each project demonstrates unique aspects of data analysis, visualization, and statistical modeling, providing valuable insights and practical solutions to real-world problems.
@@ -37,8 +37,8 @@ This repository showcases a collection of diverse data science projects develope
 
 ### 1. Clone the Repository  
 ```bash  
-git clone https://github.com/dhirthacker7/r_projects.git  
-cd r_projects  
+git clone https://github.com/dhirthacker7/R_Analytics_Hub.git  
+cd R_Analytics_Hub  
 ```
 
 ### 2. Install Required Libraries
